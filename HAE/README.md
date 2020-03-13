@@ -1,9 +1,9 @@
-#HAE
-##Nesse projeto usamos as tecnologias HTML, CSS, Javascript, PHP e o Banco de Dados PostGreSQL.
+# HAE
+## Nesse projeto usamos as tecnologias HTML, CSS, Javascript, PHP e o Banco de Dados PostGreSQL.
 
-###Para que tudo funcione adequadamente siga os seguintes passos:
+### Para que tudo funcione adequadamente siga os seguintes passos:
 
-#Passo a passo
+# Passo a passo
 ```
 1- Copie a pasta HAE de 'Implemantação' para o diretório htdocs(caso use XAMPP) ou www(caso use WAMP).
 ```

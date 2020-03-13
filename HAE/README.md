@@ -1,10 +1,10 @@
 # HAE
 ## Nesse projeto usamos as tecnologias HTML, CSS, Javascript, PHP e o Banco de Dados PostgreSQL.
 ## Pré-requisitos:
-```
+
 * [XAMPP](https://www.apachefriends.org/pt_br/index.html) - Server
 * [PostgreSQL](https://www.postgresql.org/) - Database
-```
+
 ### Para que tudo funcione adequadamente siga os seguintes passos:
 
 # Passo a passo

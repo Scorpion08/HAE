@@ -6,9 +6,9 @@
 * [WAMP](http://www.wampserver.com/en/) - Server
 * [PostgreSQL](https://www.postgresql.org/) - Database
 
-### Para que tudo funcione adequadamente siga os seguintes passos:
+## Para que tudo funcione adequadamente siga os seguintes passos:
 
-# Passo a passo
+### Passo a passo
 ```
 1- Copie a pasta HAE de 'Implemantação' para o diretório htdocs(caso use XAMPP) ou www(caso use WAMP).
 ```

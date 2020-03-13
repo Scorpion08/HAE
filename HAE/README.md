@@ -2,8 +2,8 @@
 ## Nesse projeto usamos as tecnologias HTML, CSS, Javascript, PHP e o Banco de Dados PostgreSQL.
 ## Pré-requisitos:
 ```
-*XAMP ou WAMP
-*PostgreSQL
+* [XAMP ou WAMP]
+* [PostgreSQL]
 ```
 ### Para que tudo funcione adequadamente siga os seguintes passos:
 

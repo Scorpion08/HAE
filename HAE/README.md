@@ -3,7 +3,7 @@
 ## Pré-requisitos:
 ```
 * [XAMPP](https://www.apachefriends.org/pt_br/index.html) - Server
-* [PostgreSQL](https://www.postgresql.org/) - Banco de Dados
+* [PostgreSQL](https://www.postgresql.org/) - Database
 ```
 ### Para que tudo funcione adequadamente siga os seguintes passos:
 

@@ -3,6 +3,7 @@
 ## Pré-requisitos:
 * [PHP](https://www.php.net/downloads.php)
 * [XAMPP](https://www.apachefriends.org/pt_br/index.html) - Server
+* [WAMP](http://www.wampserver.com/en/) - Server
 * [PostgreSQL](https://www.postgresql.org/) - Database
 
 ### Para que tudo funcione adequadamente siga os seguintes passos:
